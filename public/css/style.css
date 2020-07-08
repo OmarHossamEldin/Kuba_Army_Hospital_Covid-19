@@ -1,0 +1,35 @@
+
+.report {
+  border: 2px solid rgb(0, 0, 0);
+  width: 100%;
+  height: auto;
+  min-height: 500px;
+  margin-bottom: 420px;
+}
+.report thead,
+tbody tr,
+.centerData {
+  text-align: center;
+}
+.patientinfo {
+  font-weight: bold;
+  background-color: #cccccc;
+}
+
+.patientinfoFront{
+  font-weight: bold;
+  padding: 20px;
+  background-color: #cccccc;
+}
+
+.MergedStyle {
+  text-align: left;
+  padding-left: 15px;
+}
+.headerStyle {
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+  margin-top: 200px;
+}

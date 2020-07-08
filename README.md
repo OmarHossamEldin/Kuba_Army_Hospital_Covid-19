@@ -1,6 +1,6 @@
 
 # Kuba_Army_Hospital_Covid-19
-<p align="center"><img src='https://image.flaticon.com/icons/svg/2785/2785819.svg'>
+<p align="center"><img src='https://image.flaticon.com/icons/svg/2785/2785819.svg' height='300px;'>
 </p>
 
 Quarantine ٍSystem Used For Collecting Data About Patients Of Covid-19 To Getting Statistics Of Their Cases.
